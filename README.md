@@ -1,5 +1,5 @@
 # SOEN6611
-##SOEN-6611 Project Repository
+## SOEN-6611 Project Repository
 
 Instructor: Nicolangelo Piccirilli, P.Eng., PMP
 
